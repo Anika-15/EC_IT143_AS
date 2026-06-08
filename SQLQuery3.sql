@@ -1,0 +1,7 @@
+SELECT TOP (1000) [CustomerID]
+      ----,[CustomerName]
+      ----,[ContactName]
+      ----,[Address]
+      ----,[City]
+      ----,[Country]
+  FROM [EC_IT143_AS].[dbo].[t_w3_schools_customers]
